@@ -9,7 +9,7 @@
                 <a href="https://discord.com/users/719685247884722267"><img width="425" src="https://lanyard.kyrie25.me/api/719685247884722267?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/?username=kx4x&show_icons=true&title_color=fff&icon_color=ffffff&text_color=9f9f9f&bg_color=0d1117&border_color=0d1117" alt="kx4x GitHub stats">
+                <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=kx4x&show_icons=true&title_color=fff&icon_color=ffffff&text_color=9f9f9f&bg_color=0d1117&border_color=0d1117" alt="kx4x GitHub stats">
             </td>
         </tr>
     </table>
