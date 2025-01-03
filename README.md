@@ -18,7 +18,7 @@
 <div align="center">
     <h2>GitHub Analytics</h2>
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kx4x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kx4x&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img width="49%" src="https://streak-stats.demolab.com/?user=kx4x&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
