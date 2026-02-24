@@ -16,12 +16,6 @@
 </div>
 
 <div align="center">
-    <h2>GitHub Analytics</h2>
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kx4x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img width="49%" src="https://streak-stats.demolab.com/?user=kx4x&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
     <h2>Now Playing</h2>
     <a href="https://github.com/kittinan/spotify-github-profile">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hxvxzez2pthxxlh6pjj7yojace&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify GitHub Profile"/>
